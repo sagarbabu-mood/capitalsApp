@@ -69,7 +69,7 @@ class Capitals extends Component {
                   </option>
                 ))}
               </select>
-              <label htmlFor="select">is capital of which country</label>
+              <p htmlFor="select">is capital of which country</p>
             </div>
             <p className="result">{capital}</p>
           </div>
